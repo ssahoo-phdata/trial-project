@@ -1,0 +1,1 @@
+select * from {{source('SRC','facility_region_timezone')}}
