@@ -4,5 +4,5 @@ models:
   - name: stg_test
     config:
       database: DEV_DB_SNOW
-      schema: dwh
-      alias: test
+      schema: stg
+      alias: stg_test
