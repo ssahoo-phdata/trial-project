@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: stg_test
+    config:
+      database: DEV_DB_SNOW
+      schema: STG
+      alias: test

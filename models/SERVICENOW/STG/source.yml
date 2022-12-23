@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: SRC
+    schema: SRC
+    database: DEV_DB_SNOW  
+    tables:
+      - name: facility_region_timezone
