@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: STG
+    schema: STG
+    database: DEV_DB_SNOW  
+    tables:
+      - name: stg_test
