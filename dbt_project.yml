@@ -38,4 +38,3 @@ models:
       materialized: view
     SERVICENOW:
       +materialized: table
-      +schema: STG
